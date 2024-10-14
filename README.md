@@ -23,8 +23,8 @@ ROA is considering the following decisions. For each, we construct a hypothesis 
 3. **New Policy Impact on Michigan:**
     - **Objective:** Determine if Michigan would be affected by a new policy targeting states with a mean AQI of 10 or greater.
     - **Hypothesis:**
-        - Null Hypothesis (H0): The mean AQI in Michigan is less than 10.
-        - Alternative Hypothesis (H1): The mean AQI in Michigan is 10 or greater.
+        - Null Hypothesis (H0): The mean AQI in Michigan is less than or equal to 10.
+        - Alternative Hypothesis (H1): The mean AQI in Michigan greater than 10.
 
 ## Methodology
 
